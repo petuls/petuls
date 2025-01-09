@@ -18,5 +18,5 @@
        style="width: 350px; height: 350px; object-fit: cover;" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=petuls&show_icons=true&locale=en&theme=dark" 
        alt="petuls" 
-       style="width: 350px; height: 450px; object-fit: cover;" />
+       style="width: 350px; height: 350px; object-fit: cover;" />
 </div>
